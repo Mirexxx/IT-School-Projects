@@ -1,0 +1,89 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies)
+1203930879009399,2023-02-08,,2023-03-15,Test Closure Activities,In progress...,Mircea Filipescu,momolino06@gmail.com,,,,,Grupa_Nov22_MirceaF,,,
+1203930879009401,2023-02-08,2023-03-15,2023-03-15,Test monitoring & Control,Done,bogdan.barbusiu@itschool.ro,bogdan.barbusiu@itschool.ro,,,,,Grupa_Nov22_MirceaF,,,
+1204160387134466,2023-03-12,2023-03-15,2023-03-15,la requirements analysis nu ai niciun comentariu discutat in urma review-ului de la curs,,,,,,,,,Test monitoring & Control,,
+1203930879009385,2023-02-08,2023-02-10,2023-02-10,Test Planning,Done,Mircea Filipescu,momolino06@gmail.com,,,,,Grupa_Nov22_MirceaF,,,
+1203930879009387,2023-02-08,2023-02-15,2023-03-15,Requirements analysis,Done,Mircea Filipescu,momolino06@gmail.com,,,,,Grupa_Nov22_MirceaF,,,
+1203930879009389,2023-02-08,2023-02-18,2023-03-15,Test Design,Done,Mircea Filipescu,momolino06@gmail.com,,2023-02-16,,"Formular Login
+    Login using valid username and valid password
+    Login using invalid username and password
+    Login  leaving the Username and Password fields empty
+    Login leaving the Username and Password fields empty
+    Login using a password with more than maximum characters(4 to 10 characters)
+
+
+
+PAGINA DE PRODUSE:
+    Verifying Product List
+    Verifying Product Details in view mode
+    Verifying ""Back"" button when we are in Product Details view mode .
+    Verifying ""Menu"" (hamburgher button) if displays the submenu .
+    Verifying  ""Home"" button from the Menu's list
+    Verifying ""About"" button from the Menu's list
+    Verifying  ""Logout"" button from the Menu's list
+    Verifying ""Sort by"" dropdown button if displays correctly the submenu .
+    Verifying if the User interface meet the client requirements after Login.
+    Verify ""X"" (close) button from the list of the hamburgher Menu
+    Verify if the Cart icon displays the number of items added after another Login
+
+
+DROPDOWN BUTTON :
+    SORTARE LISTA NAME (A-Z)
+    SORTARE LISTA NAME (Z-A)
+    SORTARE LISTA PRICE (LOW TO HIGH)
+    SORTARE LISTA PRICE (HIGH TO LOW)
+
+
+PRODUCT DETAIL (view mode):
+     ADAUGARE UN PRODUS IN COS
+    ADAUGARE TOATE (6) PRODUSE IN COS
+    Verify if the Cart icon displays the added products .
+    Verify the ""Back"" button
+
+
+COSUL DE CUMPARATURI:
+    TESTARE BUTON REMOVE PRODUCT LIST (PRODUSELE DEJA ADAUGATE IN COS)
+    TESTARE BUTON REMOVE DIN PAGINA COS DE CUMPARATURI
+    TESTARE CONTINUE SHOPPING
+    VERIFICARE DETALII PRODUSE DIN COSUL DE CUMPARATURI
+    TESTARE BUTON ""CHECKOUT"" CU PRODUSE IN COS
+    Testare buton ""Continue Shopping""
+    Testing Product view mode by clicking on it from the Cart
+
+
+CHECKOUT:
+    TESTARE ""CHECKOUT"" CU DATE CORECTE CLIENT
+    TESTARE ""CHECKOUT"" CU DATE INCOMPLETE CLIENT
+    TESTARE BUTON ""CONTINUE"" DIN PAGINA DE CHECKOUT
+    TESTARE BUTON ""CANCEL"" DIN PAGINA DE CHEKOUT
+
+
+CHECKOUT OVERVIEW:
+    Verify   ""Finish"" button
+    Verify   ""Cancel"" button
+    Verify if the ""Total Price"" is correctly calculated .
+    Check details of each product (product info , quantity and price) if it is correct .
+
+FINALIZARE COMANDA:
+
+    Verify ""Back to Home"" button
+    Verify if the ""Order Completed"" message is displayed corectly
+    Verifying if the Cart icon/button  still displays the products added after the user is finishing an order
+    Verifying if we can finish an order without any items in Cart .
+
+CU TOT CU BUGURI PANA LA 1 MARTIE .
+ORICE TEST IN PLUS IL FACEM CU BOLD TYPING .
+
+",Grupa_Nov22_MirceaF,,,
+1203930879009395,2023-02-08,2023-03-12,2023-03-12,Test Implementation,Done,Mircea Filipescu,momolino06@gmail.com,,,,Test cases atached :(Test Cases-Expected results),Grupa_Nov22_MirceaF,,,
+1203930879009397,2023-02-08,2023-03-12,2023-03-12,Test Execution,Done,Mircea Filipescu,momolino06@gmail.com,,,,,Grupa_Nov22_MirceaF,,,
+1203930879009391,2023-02-08,2023-03-12,2023-03-12,Test Estimation,Done,,,,,,sa trecem cu subtaskuri fiecare etapa in parte si sa punem niste estimari.,Grupa_Nov22_MirceaF,,,
+1203978792027692,2023-02-15,,2023-02-18,"Test Planning - estimate 1hour  Actual 0,5 hour",,,,,,,,,Test Estimation,,
+1203978792027693,2023-02-15,,2023-02-26,Requirements analysis - estimated  1Hour Actual 1 hour,,,,,,,,,Test Estimation,,
+1203978792027694,2023-02-15,,2023-03-12,Test design estimated: ETA 1.5 Hours Actual 1 Hour,,,,,,,,,Test Estimation,,
+1203978792027695,2023-02-15,,2023-03-12,Test Implementation ET 3.5 Hours Actual 2 Hours,,,,,,,,,Test Estimation,,
+1203978792027696,2023-02-15,,2023-03-12,Test Execution ET: 5 Hours Actual 3 Hours,,,,,,,,,Test Estimation,,
+1204091564945174,2023-03-01,2023-03-12,2023-03-12,Bugs Standard user,Bugs,,,,,,,Grupa_Nov22_MirceaF,,,
+1204091564945176,2023-03-01,2023-03-12,2023-03-12,Bugs Locked_out user,Bugs,,,,,,,Grupa_Nov22_MirceaF,,,
+1204091564945178,2023-03-01,2023-03-12,2023-03-12,Bugs Problem_user,Bugs,,,,,,,Grupa_Nov22_MirceaF,,,
+1204091564945180,2023-03-01,2023-03-12,2023-03-12,Bugs  Performance_glitch_user,Bugs,,,,,,,Grupa_Nov22_MirceaF,,,
